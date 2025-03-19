@@ -1,0 +1,180 @@
+{
+    "menu": {
+        "home": "Startseite",
+        "about": "Über uns",
+        "blogs": "Artikel",
+        "privacy": "Datenschutzrichtlinie",
+        "contact": "Kontaktieren Sie uns"
+    },
+    "hero": {
+        "Headline": "Eine einfache Möglichkeit, deine Hausaufgaben zu machen",
+        "span_Headline": "Alle Themen, die du benötigst",
+        "sub_Headline": "\"The Homework AI\" ist eine Website, die KI nutzt, um Hausaufgaben zu automatisieren, Stress zu reduzieren, Zeit zu sparen und den Schülern zu helfen, ihr Verständnis zu verbessern.",
+        "start_btn": "Beginnen zu schreiben",
+        "download_btn": "Lade die App herunter!",
+        "subcopy": {
+            "Home_1": "Sprachen",
+            "Home_text_1": "Unsere KI antwortet in mehreren Sprachen. Inklusive: Englisch, Spanisch, Französisch, Deutsch, Italienisch, Portugiesisch und mehr",
+            "Home_2": "Vollständig automatisierte KI",
+            "Home_text_2": "Sparen Sie Zeit mit dieser KI der neuesten Generation. Ihre Zeit ist wertvoll, und wir kümmern uns darum.",
+            "Home_3": "Service",
+            "Home_text_3": "Wir sind rund um die Uhr erreichbar, damit Schüler jederzeit Hilfe bei ihren Hausaufgaben erhalten können."
+        }
+    },
+    "HomePage": {
+        "Title": "The Homework AI - KI für Hausaufgaben | Kostenlos, keine Anmeldung, unbegrenzte Fächer!",
+        "Subtitle": "Erhalten Sie sofortige Hilfe bei Ihren Hausaufgaben mit Homework AI auf TheHomeworkAI.com. Unsere Künstliche Intelligenz bietet Lösungen für Mathematik, Physik und viele andere Fächer. Nutzen Sie einen kostenlosen KI-Service für Hausaufgaben und entdecken Sie das Potenzial der KI, um Mathematikaufgaben, Physikprobleme und vieles mehr zu lösen. Erledigen Sie Ihre Hausaufgaben einfach, schnell und ohne Anmeldung, alles völlig kostenlos!",
+        "Headline": "Wählen Sie das Thema, das Sie benötigen",
+        "spanHeadline": "Und machen Sie Ihre Hausaufgaben",
+        "GeneralWilling": "Allgemeinwissen",
+        "BooksResume": "Buchzusammenfassungen",
+        "Science": "Wissenschaft",
+        "Art": "Kunst",
+        "Literature": "Literatur",
+        "Math": "Mathematik",
+        "History": "Geschichte",
+        "Physics": "Physik",
+        "upload": "Laden Sie Ihre Übung hoch",
+        "Essay": "Aufsatz/Abschlussarbeit"
+    },
+    "generalForm": {
+        "generate_btn": "Antwort erhalten",
+        "p1": "Seien Sie so spezifisch wie möglich, schreiben Sie nicht weniger als 10 Zeichen.",
+        "p2": "Unsere KI kann 2 Minuten brauchen, um auf Ihre Frage zu antworten, bitte aktualisieren Sie die Seite nicht."
+    },
+    "GeneralWilling": {
+        "copy": "Wir beantworten alles",
+        "subcopy": "Fragen Sie uns, was Sie wollen, zu jedem Thema, und unsere KI der neuesten Generation wird Ihnen antworten.",
+        "pageTitle": "Nehmen Sie sich Zeit und fragen Sie jetzt alles",
+        "label": "Fragen Sie mich alles"
+    },
+    "UploadExercice": {
+        "copy": "Laden Sie ein Bild hoch, und wir bieten Ihnen eine Schritt-für-Schritt-Lösung!",
+        "subcopy": "Egal ob es ein Matheproblem, eine Gleichung oder ein Essay ist, oder jede andere Aufgabe. Unsere KI kann es für dich lösen oder sogar Verbesserungen vorschlagen! Lade jetzt ein klares Foto hoch!",
+        "pageTitle": "Nehmen Sie sich Zeit und fragen Sie jetzt alles",
+        "label": "Frag mich alles (Du kannst bis zu 10 Fotos pro Tag hochladen. Wenn du das Limit erreicht hast, versuche es morgen erneut!)",
+        "p1": "Laden Sie hoch und stellen Sie eine Frage"
+    },
+    "BooksResume": {
+        "copy": "Buchzusammenfassungen",
+        "subcopy": "KI-unterstützte Buchzusammenfassungen, die den Schülern helfen, den Inhalt schnell zu verstehen. Reichen Sie einen beliebigen Text ein, und wir fassen ihn für Sie zusammen.",
+        "pageTitle": "Erhalten Sie eine einfache Buchzusammenfassung",
+        "label": "Buchtitel"
+    },
+    "Science": {
+        "copy": "Wissenschaft überall",
+        "subcopy": "Wir helfen bei Wissenschaftsaufgaben.",
+        "pageTitle": "Erhalten Sie eine Antwort auf jede Wissenschaftsfrage",
+        "label": "Ihre Frage/ Thema"
+    },
+    "Art": {
+        "copy": "Eine erstaunliche Welt voller Kunst",
+        "subcopy": "KI-Unterstützung für Kunsthausaufgaben, die den Schülern hilft, künstlerische Konzepte und Techniken zu verstehen.",
+        "pageTitle": "Haben Sie Kunstfragen?",
+        "label": "Ihre Kunstfrage"
+    },
+    "Literature": {
+        "copy": "Literatur in Ihren Händen",
+        "subcopy": "Wir bieten Unterstützung bei Literaturaufgaben, indem wir KI-Technologie nutzen, um den Schülern eine tiefere Analyse und ein besseres Verständnis literarischer Werke zu bieten.",
+        "pageTitle": "Erhalten Sie Antworten auf Ihre Literaturfragen",
+        "label": "Was ist Ihre Literaturfrage?"
+    },
+    "Math": {
+        "copy": "Mathematik leicht gemacht",
+        "subcopy": "Wir bieten Unterstützung bei Mathematikhausaufgaben.",
+        "pageTitle": "Lösen Sie Ihre Mathematikprobleme",
+        "label": "Schreiben Sie das Mathematikproblem, das Sie lösen möchten (z. B. lösen Sie x+2)"
+    },
+    "History": {
+        "copy": "Geschichte kann manchmal schwierig sein",
+        "subcopy": "Wir helfen mit Geschichtsaufgaben durch KI-Technologie, indem wir den Schülern genaue und vollständige Informationen über historische Ereignisse und wichtige Persönlichkeiten bieten.",
+        "pageTitle": "Stellen Sie eine Frage zur Geschichte",
+        "label": "Was ist Ihre Geschichtsfrage?"
+    },
+    "Physics": {
+        "copy": "Die Welt der Physik",
+        "subcopy": "Wir bieten Unterstützung bei Physikhausaufgaben.",
+        "pageTitle": "Haben Sie Physikfragen?",
+        "label": "Was ist Ihre Physikfrage?"
+    },
+    "Essay": {
+        "copy": "Erstellen Sie Ihren Aufsatz/Abschlussarbeit",
+        "subcopy": "Unsere innovative KI kann einen Aufsatz zu jedem Thema generieren, den Sie benötigen. Sie kann Ihnen auch Ideen für Ihren zukünftigen Aufsatz oder Ihre Abschlussarbeit für Schule oder Universität geben.",
+        "pageTitle": "Holen Sie sich Hilfe für Ihre Aufsätze",
+        "label": "Worum geht es in Ihrem Aufsatz?"
+    },
+    "About": {
+        "Headline": "Über uns",
+        "text": "ist eine Website, die von zwei jungen Studenten, Ilson Joao de Oliveira Neto und Allen Ebulue, gegründet wurde, die nach umfangreichen Recherchen dieses Projekt ins Leben gerufen haben, um Schülern bei ihren Hausaufgaben oder schulischen/universitären Projekten zu helfen. \"The Homework AI\" ist eine Website, die KI-Technologie nutzt, um Schülern bei ihren Hausaufgaben in verschiedenen Themen zu helfen. Diese Website wurde entwickelt, um Schülern zu helfen, den Inhalt besser zu verstehen, indem sie maßgeschneiderte Hilfe und Ratschläge bietet. Unsere Website nutzt KI, um Hausaufgaben in verschiedenen Fächern vollständig zu automatisieren, damit Schüler ohne Stress Antworten erhalten. Natürlich muss der Benutzer die Fakten überprüfen. Diese KI ist ein Hilfsmittel und kein Ersatz für die persönliche Arbeit des Schülers. Wir können nicht garantieren, dass alles, was von unserer KI generiert wird, zu 100% wahr und aktuell ist. Insgesamt ist \"The Homework AI\" eine wertvolle Ressource für Schüler jeden Alters und jeder Stufe."
+    },
+    "Contact": {
+        "copy": "Zögern Sie nicht, uns jederzeit zu kontaktieren",
+        "subcopy": "Wir sind da, um alle Ihre Fragen zu beantworten und Ihnen zu helfen. Kontaktieren Sie uns und lassen Sie uns gemeinsam etwas Großartiges aufbauen.",
+        "Headline": "Kontaktieren Sie uns",
+        "subHeadline": "Haben Sie ein technisches Problem? Möchten Sie Feedback zu einer Beta-Funktion geben? Lassen Sie es uns wissen.",
+        "Success": "Ihre E-Mail wurde erfolgreich gesendet. Wir werden Ihnen so schnell wie möglich antworten.",
+        "Name": "Name",
+        "Email": "E-Mail",
+        "Subject": "Betreff",
+        "Message": "Nachricht",
+        "send": "Nachricht senden"
+    },
+    "Privacy": {
+        "Headline": "Datenschutzrichtlinie für The Homework AI",
+        "Intro": "Bei The Homework AI, zugänglich unter \"wwww.thehomeworkai.com\", ist der Schutz der Privatsphäre unserer Besucher eine unserer obersten Prioritäten. Dieses Datenschutzdokument enthält die Arten von Informationen, die von The Homework AI gesammelt und gespeichert werden, sowie die Art und Weise, wie wir sie verwenden. Wenn Sie Fragen haben oder mehr Informationen zu unserer Datenschutzrichtlinie benötigen, zögern Sie bitte nicht, uns zu kontaktieren.",
+        "Consent": "Zustimmung",
+        "ConsentText": "Durch die Nutzung unserer Website stimmen Sie unserer Datenschutzrichtlinie zu und akzeptieren deren Bedingungen.",
+        "Information": {
+            "title": "Welche Informationen wir sammeln",
+            "p1": "Die persönlichen Informationen, die Sie aufgefordert werden zu geben, und die Gründe, warum wir Sie bitten, diese bereitzustellen, werden Ihnen zum Zeitpunkt der Anfrage erklärt.",
+            "p2": "Wenn Sie uns direkt kontaktieren, können wir zusätzliche Informationen von Ihnen erhalten, wie z. B. Ihren Namen, Ihre E-Mail-Adresse, Ihre Telefonnummer, den Inhalt der Nachricht und/oder Anhänge, die Sie uns senden, sowie alle anderen Informationen, die Sie freiwillig angeben.",
+            "p3": "Wenn Sie ein Konto erstellen, können wir Sie nach Kontaktinformationen fragen, wie z. B. Name, Firmenname, Adresse, E-Mail-Adresse und Telefonnummer."
+        },
+        "UseInformation": {
+            "title": "Wie wir Ihre Informationen verwenden",
+            "p1": "Wir verwenden die gesammelten Informationen auf verschiedene Arten, einschließlich, aber nicht beschränkt auf:",
+            "p2": "Bereitstellung, Betrieb und Wartung unserer Website",
+            "p3": "Verbesserung, Personalisierung und Weiterentwicklung unserer Website",
+            "p4": "Verstehen und Analysieren, wie Sie unsere Website nutzen",
+            "p5": "Entwicklung neuer Produkte, Dienstleistungen, Funktionen und Verbesserungen",
+            "p6": "Kommunikation mit Ihnen, entweder direkt oder über einen unserer Partner, einschließlich Kundenservice, Bereitstellung von Updates und anderen Informationen zu unserer Website sowie für Marketing- und Werbezwecke",
+            "p7": "E-Mail-Versand",
+            "p8": "Betrugsbekämpfung und -prävention"
+        },
+        "LogFiles": {
+            "title": "Logdateien",
+            "p1": "The Homework AI folgt einem Standardverfahren für die Nutzung von Logdateien. Diese Dateien zeichnen die Besucher auf, wenn sie Websites besuchen. Alle Hosting-Unternehmen tun dies, es ist Teil der Hosting-Analysetools. Die Informationen, die durch Logdateien gesammelt werden, umfassen IP-Adressen, Browsertypen, Internetdienstanbieter (ISP), Datum und Uhrzeit, Einstiegs- und Ausstiegsseiten sowie möglicherweise die Anzahl der Klicks. Diese Informationen sind nicht mit personenbezogenen Daten verbunden."
+        },
+        "Adver": {
+            "title": "Datenschutzrichtlinien von Werbepartnern",
+            "p1": "Sie können diese Liste einsehen, um die Datenschutzrichtlinie jedes Werbepartners von The Homework AI zu finden.",
+            "p2": "Drittanbieter-Werbeserver oder Werbenetzwerke verwenden Technologien wie Cookies, JavaScript oder Web-Beacons in ihren jeweiligen Anzeigen, die auf The Homework AI erscheinen und direkt an den Browser des Nutzers gesendet werden.",
+            "p3": "Beachten Sie, dass The Homework AI keinen Zugang zu oder Kontrolle über diese Cookies hat, die von Drittanbietern verwendet werden."
+        },
+        "Google": {
+            "title": "Google DoubleClick DART-Cookie",
+            "p1": "Google ist einer der Drittanbieter unseres Sites. Es verwendet auch Cookies, sogenannte DART-Cookies, um Anzeigen an die Besucher unserer Website basierend auf deren Besuchen auf www.website.com und anderen Websites im Internet zu schalten."
+        },
+        "ThirdParty": {
+            "title": "Datenschutzrichtlinien von Dritten",
+            "p1": "Die Datenschutzrichtlinie von The Homework AI gilt nicht für andere Werbetreibende oder Websites. Wir empfehlen daher, die jeweiligen Datenschutzrichtlinien dieser Drittanbieter-Werbeserver für mehr Details zu überprüfen.",
+            "p2": "Sie können Cookies über die Optionen Ihres Browsers deaktivieren."
+        },
+        "CCPA": {
+            "title": "Datenschutzrechte unter dem CCPA (Verkauf meiner persönlichen Daten verhindern)",
+            "p1": "Gemäß dem CCPA haben kalifornische Verbraucher unter anderem das Recht:",
+            "p2": "Von einem Unternehmen, das personenbezogene Daten sammelt, die Kategorien und spezifischen Elemente der gesammelten personenbezogenen Daten offen zu legen.",
+            "p3": "Von einem Unternehmen zu verlangen, alle personenbezogenen Daten, die es über sie gesammelt hat, zu löschen.",
+            "p4": "Von einem Unternehmen, das personenbezogene Daten verkauft, zu verlangen, dass es keine persönlichen Daten des Verbrauchers verkauft."
+        },
+        "GDPR": {
+            "title": "Datenrechtsschutzrechte gemäß der DSGVO",
+            "p1": "Wir möchten sicherstellen, dass Sie vollständig über Ihre Datenschutzrechte informiert sind. Jeder Nutzer hat Anspruch auf die folgenden Rechte:",
+            "p2": "Das Recht auf Zugang – Sie haben das Recht, Kopien Ihrer persönlichen Daten anzufordern."
+        },
+        "children": {
+            "title": "Informationen für Kinder",
+            "p1": "Ein weiteres unserer Anliegen ist es, Kindern beim Surfen im Internet besonderen Schutz zu bieten."
+        }
+    }
+}
