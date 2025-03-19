@@ -1,0 +1,128 @@
+
+:root {
+    --colorShadeB: #2F9E89;
+    --colorShadeC: #2F9E89;
+    --colorShadeD: rgb(187, 232, 211);
+    --colorShadeE: #35D0BA;
+  }
+
+body {
+    overflow-x: hidden !important;
+    position: relative;
+}
+
+.spinnerH {
+    height: 90%;
+}
+
+.logo {
+    width: 200px;
+}
+
+.flag-dropdown {
+    position: relative;
+    display: inline-block;
+    margin: 1rem 0;
+    width: 170px;
+    color: white;
+}
+
+.selected-item {
+    cursor: pointer;
+    display: flex;
+    width: 170px;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background-color: black;
+    border: none;
+}
+
+.dropdown-list {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: black;
+    border: 0;
+    z-index: 10;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    z-index:1000
+}
+
+.dropdown-list li {
+    cursor: pointer;
+    display: flex;
+    width: 170px;
+    align-items: center;
+    padding: 0.5rem 1rem;
+}
+
+.dropdown-list li img {
+    width: 20px;
+    height: 14px;
+    margin-right: 0.5rem;
+}
+
+.selectedCountry {
+    text-transform:capitalize;
+}
+
+.big-button {
+    display: flex;
+    align-items: center;
+    position: relative;
+    height: 40px;
+    cursor: pointer;
+    outline: none;
+    border: 0;
+    vertical-align: middle;
+    text-decoration: none;
+    font-weight: 500;
+    color: white !important;
+    font-family: inherit;
+    z-index: 2;
+  }
+  
+ .big-button {
+    padding: 12px 16px;
+    border-radius: 5px;
+    background: var(--colorShadeE);
+    transform-style: preserve-3d;
+    transition: all 175ms cubic-bezier(0, 0, 1, 1);
+  }
+  .big-button::before {
+    position: absolute;
+    content: "";
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: var(--colorShadeC);
+    border-radius: inherit;
+    transform: translate3d(0, 0.55em, -1em);
+    transition: all 175ms cubic-bezier(0, 0, 1, 1);
+    z-index: -1;
+  }
+  
+  .big-button:hover {
+    transform: translate(0, 0.375em);
+  }
+  
+  .big-button:hover::before {
+    transform: translate3d(0, 0.55em, -1em);
+  }
+  
+  .big-button:active {
+    transform: translate(0em, 0.55em);
+  }
+  
+  .big-button:active::before {
+    transform: translate3d(0, 0, -1em);
+  
+    box-shadow: 0 0 0 2px var(--colorShadeB), 0 0.25em 0 0 var(--colorShadeB);
+  }
+  

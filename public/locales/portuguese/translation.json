@@ -1,0 +1,122 @@
+{
+    "menu": {
+        "home": "Início",
+        "about": "Sobre",
+        "blogs": "Artigos",
+        "privacy": "Política de Privacidade",
+        "contact": "Contato"
+    },
+    "hero": {
+        "Headline": "Uma maneira fácil de fazer suas tarefas",
+        "span_Headline": "Todos os assuntos que você precisa",
+        "sub_Headline": "\"The Homework AI\" é um site que usa IA para automatizar tarefas, reduzir o estresse, economizar tempo e ajudar os alunos a melhorar sua compreensão.",
+        "start_btn": "Comece a escrever",
+        "download_btn": "Baixe o aplicativo!",
+        "subcopy": {
+            "Home_1": "Idiomas",
+            "Home_text_1": "Nossa IA responde em vários idiomas. Inclui: inglês, espanhol, francês, alemão, italiano, português e mais.",
+            "Home_2": "IA totalmente automatizada",
+            "Home_text_2": "Economize tempo com esta IA de última geração. Seu tempo é valioso e nós cuidamos disso.",
+            "Home_3": "Serviço",
+            "Home_text_3": "Estamos disponíveis 24 horas por dia, 7 dias por semana, permitindo que os alunos obtenham ajuda para suas tarefas a qualquer momento."
+        }
+    },
+    "HomePage": {
+        "Title": "The Homework AI - IA para fazer dever de casa | Grátis, Sem Cadastro, Sem Limites, Todas as Matérias!",
+        "Subtitle": "Receba ajuda imediata com seus deveres de casa usando Homework AI no TheHomeworkAI.com. Nossa Inteligência Artificial oferece soluções para matemática, física e muitas outras matérias. Aproveite um serviço gratuito de IA para fazer os deveres de casa, explorando o potencial da IA para resolver exercícios de matemática, problemas de física e muito mais. Complete seus deveres de casa de forma simples, rápida e sem registro, totalmente gratuito!",
+        "Headline": "Escolha o assunto que você precisa",
+        "spanHeadline": "E faça suas tarefas",
+        "GeneralWilling": "Cultura geral",
+        "BooksResume": "Resumo de livros",
+        "Science": "Ciências",
+        "Art": "Arte",
+        "Literature": "Literatura",
+        "Math": "Matemática",
+        "History": "História",
+        "Physics": "Física",
+        "upload": "Envie seu exercício",
+        "Essay": "Redação/Tese"
+    },
+    "generalForm": {
+        "generate_btn": "Obter uma resposta",
+        "p1": "Seja o mais específico possível, não escreva menos de 10 caracteres.",
+        "p2": "Nossa IA pode levar até 2 minutos para responder à sua pergunta, por favor, não atualize a página."
+    },
+    "GeneralWilling": {
+        "copy": "Responderemos qualquer coisa",
+        "subcopy": "Pergunte-nos o que quiser, sobre qualquer assunto, e nossa IA de última geração responderá.",
+        "pageTitle": "Tire seu tempo e pergunte qualquer coisa agora",
+        "label": "Pergunte-me qualquer coisa"
+    },
+    "UploadExercice": {
+        "copy": "Envie uma imagem e nós forneceremos uma solução passo a passo!",
+        "subcopy": "Seja um problema de matemática, uma equação ou um ensaio, ou qualquer tipo de tarefa. Nossa IA pode resolvê-lo para você ou até sugerir melhorias! Faça o upload de uma foto clara agora!",
+        "pageTitle": "Tire seu tempo e pergunte qualquer coisa agora",
+        "label": "Pergunte-me qualquer coisa (Você pode enviar até 10 fotos por dia. Depois de atingir o limite, tente novamente amanhã!)",
+        "p1": "Envie uma imagem e faça uma pergunta"
+    },
+    "BooksResume": {
+        "copy": "Resumo de livros",
+        "subcopy": "Resumos de livros gerados por IA para ajudar os alunos a entender rapidamente o conteúdo. Envie qualquer texto e nós o resumiremos para você.",
+        "pageTitle": "Obtenha um resumo simples do livro",
+        "label": "Título do livro"
+    },
+    "Science": {
+        "copy": "A ciência em todo lugar",
+        "subcopy": "Ajudamos com tarefas de ciências.",
+        "pageTitle": "Obtenha a resposta para qualquer pergunta de ciências",
+        "label": "Sua pergunta/assunto"
+    },
+    "Art": {
+        "copy": "Um mundo incrível cheio de arte",
+        "subcopy": "Suporte de IA para tarefas de arte, ajudando os alunos a entender conceitos e técnicas artísticas.",
+        "pageTitle": "Tem dúvidas sobre arte?",
+        "label": "Sua pergunta sobre arte"
+    },
+    "Literature": {
+        "copy": "A literatura em suas mãos",
+        "subcopy": "Oferecemos suporte para tarefas de literatura, utilizando tecnologia de IA para proporcionar análises detalhadas e melhor compreensão das obras literárias.",
+        "pageTitle": "Obtenha respostas para suas dúvidas sobre literatura",
+        "label": "Qual é sua dúvida sobre literatura?"
+    },
+    "Math": {
+        "copy": "A matemática simplificada",
+        "subcopy": "Oferecemos suporte para tarefas de matemática.",
+        "pageTitle": "Resolva seus problemas de matemática",
+        "label": "Escreva o problema matemático que deseja resolver (exemplo: resolver x+2)"
+    },
+    "History": {
+        "copy": "A história pode parecer difícil às vezes",
+        "subcopy": "Ajudamos com tarefas de história através da tecnologia de IA, fornecendo aos alunos informações precisas e completas sobre eventos históricos e figuras importantes.",
+        "pageTitle": "Faça uma pergunta sobre história",
+        "label": "Qual é sua dúvida sobre história?"
+    },
+    "Physics": {
+        "copy": "O mundo da física",
+        "subcopy": "Oferecemos suporte para tarefas de física.",
+        "pageTitle": "Tem dúvidas sobre física?",
+        "label": "Qual é sua dúvida sobre física?"
+    },
+    "Essay": {
+        "copy": "Crie sua redação/tese",
+        "subcopy": "Nossa IA inovadora pode gerar uma redação sobre qualquer tema que você precisar. Ela também pode lhe dar ideias para sua futura redação ou tese para a escola ou universidade.",
+        "pageTitle": "Obtenha ajuda para suas redações",
+        "label": "Sobre o que é sua redação?"
+    },
+    "About": {
+        "Headline": "Sobre nós",
+        "text": " é um site criado por dois jovens estudantes universitários chamados Ilson Joao de Oliveira Neto e Allen Ebulue, que, após extensas pesquisas, idealizaram este projeto para ajudar os alunos a fazer suas tarefas escolares ou universitárias. \"The Homework AI\" é um site que usa tecnologia de IA para ajudar os alunos em suas tarefas em diversas matérias. Este site foi projetado para ajudar os alunos a entender melhor o conteúdo, oferecendo assistência e orientação personalizadas. Nosso site usa IA para automatizar completamente as tarefas em diferentes disciplinas, permitindo que os alunos obtenham respostas sem estresse. Claro, a verificação dos fatos deve ser feita pelo usuário do site. Esta IA é uma ferramenta de auxílio e não um substituto para o trabalho pessoal do aluno. Não podemos garantir que tudo gerado por nossa IA será 100% verdadeiro e atualizado. No geral, \"The Homework AI\" é um recurso valioso para estudantes de todas as idades e níveis."
+    },
+    "Contact": {
+        "copy": "Sinta-se à vontade para entrar em contato conosco a qualquer momento",
+        "subcopy": "Estamos aqui para responder a todas as suas perguntas e ajudar você. Entre em contato e vamos construir algo incrível juntos.",
+        "Headline": "Fale conosco",
+        "subHeadline": "Está tendo um problema técnico? Quer dar feedback sobre um recurso beta? Deixe-nos saber.",
+        "Success": "Seu e-mail foi enviado com sucesso. Responderemos o mais rápido possível.",
+        "Name": "Nome",
+        "Email": "Email",
+        "Subject": "Assunto",
+        "Message": "Mensagem",
+        "send": "Enviar mensagem"
+    }
+}
