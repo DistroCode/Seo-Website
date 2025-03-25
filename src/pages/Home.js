@@ -25,7 +25,7 @@ const Home = () => {
         <title>{t("HomePage.Title")}</title>
         <meta
           name="description"
-          content={t("HomePage.Subtitle") || "Get instant help with homework using Homework AI at TheHomeworkAI.com. Our AI homework helper offers solutions for math, physics, and more. From AI for homework to a homework AI free service, explore the power of math AI, physics AI solvers, and homework helper AI to ace your assignments fully free with no sign up !"} />
+          content={t("HomePage.Subtitle") || "The Homework AI is a website that uses AI to automate homework assignments, reducing stress, saving time and helping students improve their understanding!"} />
         <meta rel="canonical" href="/" />
       </Helmet>
 

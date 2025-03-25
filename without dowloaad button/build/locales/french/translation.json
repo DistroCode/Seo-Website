@@ -1,0 +1,180 @@
+{
+    "menu": {
+        "home": "Accueil",
+        "about": "À propos",
+        "blogs": "Articles",
+        "privacy": "Politique de confidentialité",
+        "contact": "Contactez-nous"
+    },
+    "hero": {
+        "Headline": "Une façon facile de faire vos devoirs",
+        "span_Headline": "Tous les sujets dont vous avez besoin",
+        "sub_Headline": "\"The Homework AI\" est un site web qui utilise l'IA pour automatiser les devoirs, réduire le stress, économiser du temps et aider les étudiants à améliorer leur compréhension.",
+        "start_btn": "Commencer à écrire",
+        "download_btn": "Téléchargez l'application !",
+        "subcopy": {
+            "Home_1": "Langues",
+            "Home_text_1": "Notre IA répond en plusieurs langues. Inclus : anglais, espagnol, français, allemand, italien, portugais et plus",
+            "Home_2": "IA entièrement automatisée",
+            "Home_text_2": "Gagnez du temps avec cette IA de dernière génération. Votre temps est précieux et nous en prenons soin.",
+            "Home_3": "Service",
+            "Home_text_3": "Nous sommes accessibles 24h/24 et 7j/7, permettant aux étudiants d'obtenir de l'aide pour leurs devoirs à tout moment."
+        }
+    },
+    "HomePage": {
+        "Title": "The Homework AI - IA pour faire vos devoirs | Gratuit, Sans Inscription, Sans Limites, Toutes Les Matières !",
+        "Subtitle": "Recevez de l'aide instantanée pour vos devoirs en utilisant Homework AI sur TheHomeworkAI.com. Notre Intelligence Artificielle propose des solutions pour les mathématiques, la physique et bien d'autres matières. Profitez d'un service gratuit d'IA pour faire vos devoirs, en explorant le potentiel de l'IA pour résoudre des exercices de mathématiques, des problèmes de physique et bien plus. Complétez vos devoirs de manière simple, rapide et sans inscription, entièrement gratuit !",
+        "Headline": "Choisissez le sujet dont vous avez besoin",
+        "spanHeadline": "Et faites vos devoirs",
+        "GeneralWilling": "Culture générale",
+        "BooksResume": "Résumé de livres",
+        "Science": "Science",
+        "Art": "Art",
+        "Literature": "Littérature",
+        "Math": "Mathématiques",
+        "History": "Histoire",
+        "Physics": "Physique",
+        "upload": "Téléchargez votre exercice",
+        "Essay": "Essai/Mémoire"
+    },
+    "generalForm": {
+        "generate_btn": "Obtenir une réponse",
+        "p1": "Soyez aussi spécifique que possible, ne rédigez pas moins de 10 caractères.",
+        "p2": "Notre IA peut prendre 2 minutes pour répondre à votre question, veuillez ne pas actualiser la page."
+    },
+    "GeneralWilling": {
+        "copy": "Nous répondrons à tout",
+        "subcopy": "Demandez-nous ce que vous voulez, sur n'importe quel sujet, et notre IA de dernière génération vous répondra.",
+        "pageTitle": "Prenez votre temps et demandez n'importe quoi maintenant",
+        "label": "Demandez-moi n'importe quoi"
+    },
+    "UploadExercice": {
+        "copy": "Téléchargez une image et nous vous fournirons une solution étape par étape !",
+        "subcopy": "Que ce soit un problème de mathématiques, une équation ou un essai, ou toute autre tâche. Notre IA peut le résoudre pour vous, ou même suggérer des améliorations ! Téléchargez une photo claire maintenant !",
+        "pageTitle": "Prenez votre temps et demandez n'importe quoi maintenant",
+        "label": "Pose-moi n'importe quelle question (Vous pouvez télécharger jusqu'à 10 photos par jour. Une fois la limite atteinte, réessayez demain !)",
+        "p1": "Téléchargez et posez une question"
+    },
+    "BooksResume": {
+        "copy": "Résumé de livres",
+        "subcopy": "Des résumés de livres alimentés par l'IA pour aider les étudiants à comprendre rapidement le contenu. Soumettez n'importe quel texte, et nous le résumerons pour vous.",
+        "pageTitle": "Obtenez un résumé simple de livre",
+        "label": "Titre du livre"
+    },
+    "Science": {
+        "copy": "La science partout",
+        "subcopy": "Nous aidons pour les devoirs de science.",
+        "pageTitle": "Obtenez la réponse à n'importe quelle question de science",
+        "label": "Votre question/sujet"
+    },
+    "Art": {
+        "copy": "Un monde incroyable rempli d'art",
+        "subcopy": "Soutien IA pour les devoirs d'art, aidant les étudiants à comprendre les concepts et techniques artistiques.",
+        "pageTitle": "Vous avez des questions d'art ?",
+        "label": "Votre question d'art"
+    },
+    "Literature": {
+        "copy": "La littérature entre vos mains",
+        "subcopy": "Nous offrons un soutien pour les devoirs de littérature, en utilisant la technologie IA pour offrir aux étudiants une analyse approfondie et une meilleure compréhension des œuvres littéraires.",
+        "pageTitle": "Obtenez des réponses à vos questions de littérature",
+        "label": "Quelle est votre question de littérature ?"
+    },
+    "Math": {
+        "copy": "Les mathématiques rendues faciles",
+        "subcopy": "Nous offrons un soutien pour les devoirs de mathématiques.",
+        "pageTitle": "Résolvez vos problèmes de mathématiques",
+        "label": "Écrivez le problème de mathématiques que vous souhaitez résoudre (par exemple, résoudre x+2)"
+    },
+    "History": {
+        "copy": "L'Histoire peut sembler difficile parfois",
+        "subcopy": "Nous aidons avec les devoirs d'histoire grâce à la technologie IA, en fournissant aux étudiants des informations précises et complètes sur les événements historiques et les figures importantes.",
+        "pageTitle": "Posez une question sur l'Histoire",
+        "label": "Quelle est votre question d'histoire ?"
+    },
+    "Physics": {
+        "copy": "Le monde de la physique",
+        "subcopy": "Nous offrons un soutien pour les devoirs de physique.",
+        "pageTitle": "Vous avez des questions de physique ?",
+        "label": "Quelle est votre question de physique ?"
+    },
+    "Essay": {
+        "copy": "Réalisez votre essai/mémoire",
+        "subcopy": "Notre IA innovante peut générer un essai sur n'importe quel sujet dont vous avez besoin. Elle peut également vous donner des idées pour votre futur essai ou mémoire pour l'école ou l'université.",
+        "pageTitle": "Obtenez de l'aide pour vos essais",
+        "label": "De quoi parle votre essai ?"
+    },
+    "About": {
+        "Headline": "À propos de nous",
+        "text": " est un site créé par deux jeunes étudiants universitaires nommés : Ilson Joao de Oliveira Neto et Allen Ebulue, qui après avoir effectué de longues recherches, ont imaginé ce projet pour aider les étudiants à faire leurs devoirs ou projets scolaires/universitaires. \"The Homework AI\" est un site qui utilise la technologie IA pour aider les étudiants avec leurs devoirs dans divers sujets. Ce site est conçu pour aider les étudiants à mieux comprendre le contenu en offrant une aide et des conseils personnalisés. Notre site utilise l'IA pour automatiser complètement les devoirs dans différents sujets, permettant ainsi aux étudiants d'avoir des réponses sans stress. Bien sûr, la vérification des faits doit être faite par l'utilisateur du site. Cette IA est un instrument d'aide et non un remplacement du travail personnel de l'étudiant. Nous ne pouvons pas garantir que tout ce qui sera généré par notre IA sera vrai à 100% et à jour. Dans l'ensemble, \"The Homework AI\" est une ressource précieuse pour les étudiants de tous âges et niveaux."
+    },
+    "Contact": {
+        "copy": "N'hésitez pas à nous contacter à tout moment",
+        "subcopy": "Nous sommes là pour répondre à toutes vos questions et vous aider. Contactez-nous et commençons à construire quelque chose de génial ensemble.",
+        "Headline": "Contactez-nous",
+        "subHeadline": "Vous avez un problème technique ? Vous voulez donner un retour sur une fonctionnalité bêta ? Faites-le nous savoir.",
+        "Success": "Votre email a été envoyé avec succès. Nous vous répondrons dès que possible.",
+        "Name": "Nom",
+        "Email": "Email",
+        "Subject": "Objet",
+        "Message": "Message",
+        "send": "Envoyer le message"
+    },
+    "Privacy": {
+        "Headline": "Politique de confidentialité pour The Homework AI",
+        "Intro": "Chez The Homework AI, accessible depuis \"wwww.thehomeworkai.com\", l'une de nos priorités principales est la confidentialité de nos visiteurs. Ce document de politique de confidentialité contient les types d'informations collectées et enregistrées par The Homework AI et comment nous les utilisons. Si vous avez des questions ou si vous avez besoin de plus d'informations sur notre politique de confidentialité, n'hésitez pas à nous contacter.",
+        "Consent": "Consentement",
+        "ConsentText": "En utilisant notre site, vous consentez à notre politique de confidentialité et acceptez ses termes.",
+        "Information": {
+            "title": "Informations que nous collectons",
+            "p1": "Les informations personnelles que vous êtes invités à fournir et les raisons pour lesquelles nous vous demandons de les fournir vous seront expliquées au moment où nous vous demanderons ces informations.",
+            "p2": "Si vous nous contactez directement, nous pourrions recevoir des informations supplémentaires vous concernant telles que votre nom, adresse email, numéro de téléphone, le contenu du message et/ou des pièces jointes que vous nous envoyez, et toute autre information que vous choisissez de fournir.",
+            "p3": "Lorsque vous vous inscrivez à un compte, nous pouvons vous demander des informations de contact, telles que le nom, le nom de l'entreprise, l'adresse, l'adresse email et le numéro de téléphone."
+        },
+        "UseInformation": {
+            "title": "Comment nous utilisons vos informations",
+            "p1": "Nous utilisons les informations que nous collectons de différentes manières, y compris pour :",
+            "p2": "Fournir, exploiter et maintenir notre site",
+            "p3": "Améliorer, personnaliser et développer notre site",
+            "p4": "Comprendre et analyser comment vous utilisez notre site",
+            "p5": "Développer de nouveaux produits, services, fonctionnalités et améliorations",
+            "p6": "Communiquer avec vous, soit directement, soit par l'intermédiaire de l'un de nos partenaires, y compris pour le service client, vous fournir des mises à jour et d'autres informations concernant le site, et à des fins marketing et promotionnelles",
+            "p7": "Vous envoyer des emails",
+            "p8": "Trouver et prévenir la fraude"
+        },
+        "LogFiles": {
+            "title": "Fichiers journaux",
+            "p1": "The Homework AI suit une procédure standard d'utilisation des fichiers journaux. Ces fichiers enregistrent les visiteurs lorsqu'ils visitent des sites web. Toutes les entreprises d'hébergement font cela, cela fait partie des services d'analyse d'hébergement. Les informations collectées par les fichiers journaux incluent les adresses de protocole Internet (IP), le type de navigateur, le fournisseur de services Internet (ISP), la date et l'heure, les pages de renvoi/sortie, et éventuellement le nombre de clics. Ces informations ne sont pas liées à des informations personnelles identifiables."
+        },
+        "Adver": {
+            "title": "Politiques de confidentialité des partenaires publicitaires",
+            "p1": "Vous pouvez consulter cette liste pour trouver la politique de confidentialité de chaque partenaire publicitaire de The Homework AI.",
+            "p2": "Les serveurs de publicités tiers ou les réseaux publicitaires utilisent des technologies telles que les cookies, JavaScript ou les balises Web dans leurs publicités respectives qui apparaissent sur The Homework AI, envoyées directement au navigateur de l'utilisateur.",
+            "p3": "Notez que The Homework AI n'a aucun accès ni contrôle sur ces cookies utilisés par les annonceurs tiers."
+        },
+        "Google": {
+            "title": "Cookie DART de Google DoubleClick",
+            "p1": "Google est l'un des fournisseurs tiers de notre site. Il utilise également des cookies, appelés cookies DART, pour diffuser des annonces aux visiteurs de notre site en fonction de leur visite sur www.website.com et d'autres sites sur Internet."
+        },
+        "ThirdParty": {
+            "title": "Politiques de confidentialité des tiers",
+            "p1": "La politique de confidentialité de The Homework AI ne s'applique pas à d'autres annonceurs ou sites web. Nous vous conseillons donc de consulter les politiques de confidentialité respectives de ces serveurs publicitaires tiers pour plus de détails.",
+            "p2": "Vous pouvez choisir de désactiver les cookies via les options de votre navigateur."
+        },
+        "CCPA": {
+            "title": "Droits à la vie privée selon le CCPA (Ne pas vendre mes informations personnelles)",
+            "p1": "En vertu du CCPA, parmi d'autres droits, les consommateurs californiens ont le droit de :",
+            "p2": "Demander à une entreprise qui collecte des données personnelles de divulguer les catégories et éléments spécifiques des données personnelles qu'elle a collectées.",
+            "p3": "Demander à une entreprise de supprimer toute donnée personnelle à son sujet qu'elle a collectée.",
+            "p4": "Demander à une entreprise qui vend des données personnelles de ne pas vendre les données personnelles du consommateur."
+        },
+        "GDPR": {
+            "title": "Droits de protection des données selon le RGPD",
+            "p1": "Nous voulons nous assurer que vous êtes pleinement informé de tous vos droits de protection des données. Chaque utilisateur a droit aux éléments suivants :",
+            "p2": "Le droit d'accès – Vous avez le droit de demander des copies de vos données personnelles."
+        },
+        "children": {
+            "title": "Informations pour enfants",
+            "p1": "Une autre de nos priorités est d'ajouter une protection pour les enfants lorsqu'ils utilisent Internet."
+        }
+    }
+}
