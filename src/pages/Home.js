@@ -19,14 +19,6 @@ const Home = () => {
 
   return (
     <>
-      {/* <Helmet>
-        <title>The Homework AI : Unlimited AI Homework Helper - Free No Sign Up</title>
-        <meta
-          name="description"
-          content="Get instant help with homework using Homework AI at TheHomeworkAI.com. Our AI homework helper offers solutions for math, physics, and more. From AI for homework to a homework AI free service, explore the power of math AI, physics AI solvers, and homework helper AI to ace your assignments fully free with no sign up !"
-        />
-        <meta rel="canonical" href="/" />
-      </Helmet> */}
 
 
       <Helmet>
