@@ -1,0 +1,180 @@
+{
+    "menu": {
+        "home": "Inicio",
+        "about": "Sobre nosotros",
+        "blogs": "Blogs",
+        "privacy": "Política de privacidad",
+        "contact": "Contáctanos"
+    },
+    "hero": {
+        "Headline": "La forma más fácil de hacer la tarea",
+        "span_Headline": "Todas las materias que necesitas",
+        "sub_Headline": "\"The Homework AI\" es un sitio web que utiliza IA para automatizar tareas, reducir el estrés, ahorrar tiempo y ayudar a los estudiantes a mejorar su comprensión.",
+        "start_btn": "Comienza a escribir",
+        "download_btn": "¡Descargar la app!",
+        "subcopy": {
+            "Home_1": "Idiomas",
+            "Home_text_1": "Nuestra IA responde en varios idiomas. Incluye: inglés, español, francés, alemán, italiano, portugués, y más.",
+            "Home_2": "IA completamente automatizada",
+            "Home_text_2": "Ahorra tiempo con esta IA de nueva generación. Tu tiempo es valioso y nos importa.",
+            "Home_3": "Servicio",
+            "Home_text_3": "Estamos disponibles 24/7, lo que permite a los estudiantes recibir ayuda con la tarea en cualquier momento."
+        }
+    },
+    "HomePage": {
+        "Title": "The Homework AI - IA para hacer la tarea | Gratis, Sin registro, Sin Límites, Todas Las Materias!",
+        "Subtitle": "Recibe ayuda inmediata con tu tarea utilizando Homework AI en TheHomeworkAI.com. Nuestra Inteligencia Artificial ofrece soluciones para matemáticas, física y muchas otras materias. Aprovecha un servicio gratuito de IA para hacer la tarea, explorando el potencial de la IA para resolver ejercicios de matemáticas, problemas de física y mucho más. Completa tu tarea de forma simple, rápida y sin registro, todo completamente gratis!",
+        "Headline": "Selecciona la materia que necesitas",
+        "spanHeadline": "Y haz tu tarea",
+        "GeneralWilling": "Conocimientos generales",
+        "BooksResume": "Resumen de libros",
+        "Science": "Ciencias",
+        "Art": "Arte",
+        "Literature": "Literatura",
+        "Math": "Matemáticas",
+        "History": "Historia",
+        "Physics": "Física",
+        "upload": "Sube tu tarea",
+        "Essay": "Ensayo/Tesis"
+    },
+    "generalForm": {
+        "generate_btn": "Obtener respuesta",
+        "p1": "Sé lo más específico posible, no escribas menos de 10 caracteres.",
+        "p2": "Nuestra IA puede tardar 2 minutos en responder, por favor no actualices la página."
+    },
+    "GeneralWilling": {
+        "copy": "Te responderemos todo",
+        "subcopy": "Pregúntanos cualquier cosa, sobre cualquier tema, y nuestra IA de nueva generación te responderá.",
+        "pageTitle": "Tómate tu tiempo y pregúntanos lo que sea ahora",
+        "label": "Pregúntame cualquier cosa"
+    },
+    "UploadExercice": {
+        "copy": "Sube una imagen y te proporcionaremos una solución paso a paso",
+        "subcopy": "Sea un problema de matemáticas, una ecuación o un ensayo, o cualquier tarea. Nuestra IA puede resolverlo por ti, ¡o incluso sugerir mejoras! Sube una foto clara ahora.",
+        "pageTitle": "Tómate tu tiempo y pregúntanos lo que sea ahora",
+        "label": "Pregúntame lo que sea (Puedes subir hasta 10 fotos al día. Una vez que alcances el límite, inténtalo de nuevo mañana!)",
+        "p1": "Sube y pregunta"
+    },
+    "BooksResume": {
+        "copy": "Resumen de libros",
+        "subcopy": "Resumenes generados por IA para ayudar a los estudiantes a entender rápidamente el contenido. Envía cualquier texto y lo resumimos para ti.",
+        "pageTitle": "Obtén un resumen simple del libro",
+        "label": "Título del libro"
+    },
+    "Science": {
+        "copy": "La ciencia está por todas partes",
+        "subcopy": "Ayudamos con las tareas de ciencias.",
+        "pageTitle": "Obtén respuestas para cualquier pregunta de ciencia",
+        "label": "Tu pregunta o tema"
+    },
+    "Art": {
+        "copy": "El maravilloso mundo del arte",
+        "subcopy": "Soporte de IA para tareas de arte, ayudando a los estudiantes a comprender conceptos y técnicas artísticas.",
+        "pageTitle": "¿Tienes preguntas sobre arte?",
+        "label": "Tu pregunta sobre arte"
+    },
+    "Literature": {
+        "copy": "La literatura en tus manos",
+        "subcopy": "Ofrecemos soporte para tareas de literatura usando IA para un análisis más profundo y mejor comprensión de las obras literarias.",
+        "pageTitle": "Obtén respuestas para tus preguntas de literatura",
+        "label": "¿Cuál es tu pregunta sobre literatura?"
+    },
+    "Math": {
+        "copy": "Las matemáticas se hacen fáciles",
+        "subcopy": "Ofrecemos soporte para tareas de matemáticas.",
+        "pageTitle": "Resuelve tus problemas de matemáticas",
+        "label": "Escribe el problema que deseas resolver (por ejemplo, resolver x+2)"
+    },
+    "History": {
+        "copy": "La historia puede ser compleja",
+        "subcopy": "Ayudamos con tareas de historia proporcionando información precisa sobre eventos históricos y personajes clave.",
+        "pageTitle": "Haz tu pregunta sobre historia",
+        "label": "¿Cuál es tu pregunta sobre historia?"
+    },
+    "Physics": {
+        "copy": "El mundo de la física",
+        "subcopy": "Ofrecemos soporte para tareas de física.",
+        "pageTitle": "¿Tienes preguntas sobre física?",
+        "label": "¿Cuál es tu pregunta sobre física?"
+    },
+    "Essay": {
+        "copy": "Escribe tu ensayo/tesis",
+        "subcopy": "Nuestra innovadora IA puede generar ensayos sobre cualquier tema que necesites. También puede sugerir ideas para tu próximo ensayo o tesis para la escuela o universidad.",
+        "pageTitle": "Obtén ayuda con tus ensayos",
+        "label": "¿Sobre qué es tu ensayo?"
+    },
+    "About": {
+        "Headline": "Sobre nosotros",
+        "text": "El sitio fue creado por dos jóvenes estudiantes: Ilson João de Oliveira Neto y Allen Ebuly, quienes después de una larga investigación idearon este proyecto para ayudar a los estudiantes con sus tareas escolares o proyectos académicos. \"The Homework AI\" es un sitio web que usa IA para ayudar a los estudiantes con tareas en diversas materias. El sitio está diseñado para ayudar a los estudiantes a comprender mejor los contenidos, proporcionando asistencia personalizada y consejos. Nuestro sitio utiliza IA para automatizar completamente las tareas en diversas materias, lo que permite a los estudiantes obtener respuestas sin estrés. Por supuesto, los hechos deben ser verificados por el usuario del sitio. Esta IA es una herramienta de ayuda, no un sustituto del trabajo personal del estudiante. No podemos garantizar que todo lo generado por nuestra IA sea 100% veraz o actualizado. En general, \"The Homework AI\" es un recurso valioso para estudiantes de todas las edades y niveles."
+    },
+    "Contact": {
+        "copy": "No dudes en contactarnos en cualquier momento",
+        "subcopy": "Estamos aquí para responder cualquier pregunta y ayudarte. Contáctanos y empecemos a construir algo increíble juntos.",
+        "Headline": "Contáctanos",
+        "subHeadline": "¿Tienes un problema técnico? ¿Quieres dejar un comentario sobre una función beta? Avísanos.",
+        "Success": "Tu mensaje ha sido enviado correctamente. Te responderemos lo antes posible.",
+        "Name": "Nombre",
+        "Email": "Correo electrónico",
+        "Subject": "Asunto",
+        "Message": "Mensaje",
+        "send": "Enviar mensaje"
+    },
+    "Privacy": {
+        "Headline": "Política de privacidad de The Homework AI",
+        "Intro": "En The Homework AI, accesible desde \"www.thehomeworkai.com\", uno de nuestros principales objetivos es la privacidad de nuestros visitantes. Este documento de política de privacidad contiene tipos de información que The Homework AI recoge y registra, así como la forma en que los usamos. Si tienes alguna pregunta o necesitas más información sobre nuestra política de privacidad, no dudes en contactarnos.",
+        "Consent": "Consentimiento",
+        "ConsentText": "Al utilizar nuestro sitio web, aceptas nuestra política de privacidad y sus términos.",
+        "Information": {
+            "title": "Información que recogemos",
+            "p1": "Te explicaremos qué información personal te pedimos y las razones por las que la pedimos cuando te solicitemos.",
+            "p2": "Si te pones en contacto con nosotros directamente, podemos obtener información adicional sobre ti, como tu nombre, correo electrónico, número de teléfono, contenido del mensaje y/o archivos adjuntos que nos envíes, y cualquier otra información que decidas proporcionar.",
+            "p3": "Cuando te registres en nuestro sitio, te pediremos información de contacto como nombre, nombre de la empresa, dirección, correo electrónico y número de teléfono."
+        },
+        "UseInformation": {
+            "title": "Cómo usamos tu información",
+            "p1": "Usamos la información que recogemos de diferentes maneras, incluyendo:",
+            "p2": "Proveer, operar y mantener nuestro sitio",
+            "p3": "Mejorar, personalizar y desarrollar nuestro sitio",
+            "p4": "Entender y analizar cómo usas nuestro sitio",
+            "p5": "Desarrollar nuevos productos, servicios, características y mejoras",
+            "p6": "Comunicarnos contigo, ya sea directamente o a través de uno de nuestros socios, incluyendo servicio al cliente, enviar actualizaciones y otra información relacionada con el sitio, así como con fines de marketing y publicidad",
+            "p7": "Enviarte correos electrónicos",
+            "p8": "Detectar y prevenir fraudes"
+        },
+        "LogFiles": {
+            "title": "Archivos de registro",
+            "p1": "The Homework AI sigue el procedimiento estándar de usar archivos de registro. Estos archivos registran a los visitantes cuando visitan sitios web. Todos los proveedores de alojamiento realizan este proceso como parte del análisis de alojamiento. La información recogida por los archivos de registro incluye direcciones IP, tipos de navegadores, proveedores de servicios de Internet (ISP), fechas y horas, páginas de entrada/salida y posiblemente el número de clics. Esta información no está vinculada a información personal."
+        },
+        "Adver": {
+            "title": "Políticas de privacidad de los socios publicitarios",
+            "p1": "Puedes consultar esta lista para encontrar la política de privacidad de cada socio publicitario de The Homework AI.",
+            "p2": "Los servidores de anuncios o las redes publicitarias de terceros utilizan tecnologías como cookies, JavaScript o balizas web en sus anuncios, que aparecen en el sitio web de The Homework AI y se envían directamente al navegador del usuario.",
+            "p3": "Ten en cuenta que The Homework AI no tiene acceso ni controla estas cookies utilizadas por los anunciantes de terceros."
+        },
+        "Google": {
+            "title": "Cookies DART de Google DoubleClick",
+            "p1": "Google es uno de los proveedores externos en nuestro sitio. También usa cookies conocidas como cookies DART para mostrar anuncios a los visitantes de nuestro sitio según sus visitas a www.website.com y otros sitios en Internet."
+        },
+        "ThirdParty": {
+            "title": "Políticas de privacidad de terceros",
+            "p1": "La política de privacidad de The Homework AI no se aplica a otros anunciantes o sitios web. Por lo tanto, te recomendamos que consultes las políticas de privacidad de esos servidores publicitarios de terceros para obtener más detalles.",
+            "p2": "Puedes desactivar las cookies a través de la configuración de tu navegador."
+        },
+        "CCPA": {
+            "title": "Derechos de privacidad según la CCPA (No vendas mi información personal)",
+            "p1": "Según la CCPA, entre otros derechos, los residentes de California tienen derecho a:",
+            "p2": "Solicitar a una empresa que recoja datos personales que revele las categorías y elementos específicos de los datos personales que ha recogido.",
+            "p3": "Solicitar a una empresa que elimine todos los datos personales que ha recogido sobre ti.",
+            "p4": "Solicitar a una empresa que venda datos personales que no venda los datos personales del consumidor."
+        },
+        "GDPR": {
+            "title": "Derechos de protección de datos según el GDPR",
+            "p1": "Queremos asegurarnos de que estás completamente informado sobre todos tus derechos de protección de datos. Cada usuario tiene derecho a lo siguiente:",
+            "p2": "Derecho de acceso: tienes derecho a solicitar copias de tus datos personales."
+        },
+        "children": {
+            "title": "Información para niños",
+            "p1": "Una de nuestras prioridades es proporcionar protección a los niños mientras usan internet."
+        }
+    }
+}

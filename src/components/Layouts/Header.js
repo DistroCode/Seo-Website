@@ -53,23 +53,25 @@ const FlagDropdown = ({ selectedCountry, countries, onSelect }) => {
 };
 
 export const DownloadButton = ({ className, t }) => (
-  <a
-    href="https://bit.ly/TheHomeworkAI"
-    rel="noreferrer"
-    target="_blank"
-    className={classNames(
-      "big-button flex",
-      className
-    )}
-  >
-    {t("hero.download_btn")}
-    <img
-      className="ml-2 lg:w-[25px] w-[20px]"
-      src="/images/playstore.png"
-      alt="Play Store"
-    />
-    <img className="ml-2 lg:w-[25px] w-[20px]" src="/images/appStore.png" alt="App Store" />
-  </a>
+  // <a
+  //   href="https://bit.ly/TheHomeworkAI"
+  //   rel="noreferrer"
+  //   target="_blank"
+  //   className={classNames(
+  //     "big-button flex",
+  //     className
+  //   )}
+  // >
+  //   {t("hero.download_btn")}
+  //   <img
+  //     className="ml-2 lg:w-[25px] w-[20px]"
+  //     src="/images/playstore.png"
+  //     alt="Play Store"
+  //   />
+  //   <img className="ml-2 lg:w-[25px] w-[20px]" src="/images/appStore.png" alt="App Store" />
+  // </a>
+  <>
+  </>
 );
 
 const NavLinks = ({ t }) => (
@@ -100,7 +102,7 @@ const Header = () => {
   const [openModal, setOpenModal] = useState(adBlockDetected);
 
   const { t, i18n } = useTranslation();
- 
+
   function getFlag(countries, selectedCountry) {
     const country = countries.find(function (country) {
       return country.name.toLowerCase() === selectedCountry.toLowerCase();
@@ -149,12 +151,12 @@ const Header = () => {
             />
           </div>
 
-          <div className="hidden lg:flex mr-[92px]">
+          {/* <div className="hidden lg:flex mr-[92px]">
             <DownloadButton
               t={t}
               className="text-md mt-2"
             />
-          </div>
+          </div> */}
           <div
             className={classNames(
               "lg:flex text-lg font-semibold",

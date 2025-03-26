@@ -1,0 +1,192 @@
+{
+    "menu": {
+        "home": "Home",
+        "about": "About",
+        "blogs": "Articles",
+        "privacy": "Privacy Policy",
+        "contact": "Contact Us"
+    },
+    "hero": {
+        "Headline": "An easy way to do your Homework",
+        "span_Headline": "Any subject you need",
+        "sub_Headline": "\"The Homework AI\" is a website that uses AI to automate homework assignments, reducing stress,saving time and helping students improve their understanding.",
+        "start_btn": "Start Writing",
+        "download_btn": " Download Our App !",
+        "subcopy": {
+            "Home_1": "Languages",
+            "Home_text_1": "Our AI answers in multiple languages. Included: English, Spanish, French, German, Italian, Portuguese and more",
+            "Home_2": "Fully automated AI",
+            "Home_text_2": "Save time with this latest generation AI. Your time is valuable and we care about it",
+            "Home_3": "Service",
+            "Home_text_3": "We are accessible 24/7, allowing students to get homework assistance anytime they need it"
+        }
+    },
+    "HomePage": {
+        "Title": "The Homework AI : Unlimited AI Homework Helper - Free No Sign Up",
+        "Subtitle": "The Homework AI is a website that uses AI to automate homework assignments, reducing stress, saving time and helping students improve their understanding!",
+        "Headline": "Choose the subject you need",
+        "spanHeadline": "And Have your homework done",
+        "GeneralWilling": "General Knowledge",
+        "BooksResume": "Books Summary",
+        "Science": "Science",
+        "Art": "Art",
+        "Literature": "Literature",
+        "Math": "Math",
+        "History": "History",
+        "Physics": "Physics",
+        "upload": "Upload your exercice",
+        "Essay": "Essay/Thesis"
+    },
+    "generalForm": {
+        "generate_btn": "Get Response",
+        "p1": "Be as specific as you can don't write less than 10 characters.",
+        "p2": "Our AI can take 2 min to answer your question , please don’t refresh the page."
+    },
+    "GeneralWilling": {
+        "copy": "We Will Answer anything",
+        "subcopy": "Ask us anything you need, about any topic and our last generation AI will answer you.",
+        "pageTitle": "Take your time and Ask Anything Now",
+        "label": "Ask me anything"
+    },
+    "UploadExercice": {
+        "copy": " Upload an image, and we'll provide you with a step-by-step solution!",
+        "subcopy": "Whether It's a math problem, equation or an essay, or any assignment. Our AI can solve it for you, Or can even suggest Improvements! Upload a clear photo now!",
+        "pageTitle": "Take your time and Ask Anything Now",
+        "label": "Ask me anything (You can upload up to 10 photos per day. Once you reach the limit, try again tomorrow!)",
+        "p1": "Upload a Picture and Ask Anything"
+    },
+    "BooksResume": {
+        "copy": "Books Summary",
+        "subcopy": "AI-powered book summaries to help students quickly understand material. Submit any text, and we'll summarize it for you.",
+        "pageTitle": "Get a Simple Book Resume",
+        "label": "Title of the book"
+    },
+    "Science": {
+        "copy": "Science Everywhere",
+        "subcopy": "We assists with science homework assignments.",
+        "pageTitle": "Get the answer of Any Science Question",
+        "label": "Your quetions/topic"
+    },
+    "Art": {
+        "copy": "An Amazing world Full of Art",
+        "subcopy": "AI support for art homework, helping students grasp artistic concepts and techniques.",
+        "pageTitle": "You got Art Questions?",
+        "label": "Your art question"
+    },
+    "Literature": {
+        "copy": "Literature Between Your Hands",
+        "subcopy": "We offer support for literature-related homework assignments, using AI technology to offer students in-depth analysis and understanding of various literary works.",
+        "pageTitle": "Get Answers for your Literature Questions",
+        "label": "What is your literature question?"
+    },
+    "Math": {
+        "copy": "Mathematics made easy",
+        "subcopy": "We offer support for math homework assignments.",
+        "pageTitle": "Solve Your Math Problems",
+        "label": "Write the math problem you want to solve (e.g solve x+2)"
+    },
+    "History": {
+        "copy": "History Might Seem Hard Sometimes",
+        "subcopy": "We assists with history homework assignments through AI technology, providing students with accurate and comprehensive information about historical events and figures.",
+        "pageTitle": "Ask a questions About History",
+        "label": "What is your history questions?"
+    },
+    "Physics": {
+        "copy": "The World of Physics",
+        "subcopy": "We offer support for physics-related homework assignments.",
+        "pageTitle": "Struggling with physics Questions?",
+        "label": "What is your physics question?"
+    },
+    "Essay": {
+        "copy": "Get your Essay/Thesis Done",
+        "subcopy": "Our innovative AI, can generate you an essay about any topic you need. It can also give you ideas about your future essay or about an thesis that you need for school or university.",
+        "pageTitle": "Get help with your essays",
+        "label": "What is your essay about?"
+    },
+    "About": {
+        "Headline": "About Us",
+        "text": " is a website created by two young university students named: Ilson Joao de Oliveira Neto and Allen Ebulue that after doing an long research , figured out this idea and project where students can be helped doing their own homework or school/university projects. \"The Homework AI\" is a website that utilizes AI technology to assist students with their homework assignments in a variety of subjects. The website is designed to help students learn and understand the material more effectively by providing personalized assistance and guidance. Our website uses AI technology to fully automate homework assignments for students in various subjects. By using this technology, the website aims to help students with their homework and answer questions with no stress. This website is designed to take the burden of homework assignments off of students, by using AI technology to complete the assignments for them. It's a tool for students looking for an effortless way to get their homework done and improve their understanding of various subjects. Of course the total research and the verification of all facts needs to be verified by the consumer of the website. This AI is an instrument to be used as a help and not as a replacement of the students doing their assignments or researches. We cannot affirm and guarantee with all precision that everything that will be generated with our AI will be true and 100% up to date. Overall, \"The Homework AI\" is a valuable resource for students of all ages and skill levels. Whether you are a struggling student who needs extra support or a high-performing student looking to take your learning to the next level, the website has something to offer. With its advanced AI technology, personalized support, and wide range of resources, \"The Homework AI\" is an excellent tool for students looking to improve their understanding of various subjects."
+    },
+    "Contact": {
+        "copy": "Feel Free to Contact Us Anytime",
+        "subcopy": "We're here to offer just that, always eager to hear from you and answer any questions you may have. Reach out to us and let's start building something great together.",
+        "Headline": "Contact Us",
+        "subHeadline": "Got a technical issue? Want to send feedback about a beta feature? Let us know.",
+        "Success": "Your Email was sent Successfully We'll get back to you ASAP.",
+        "Name": "Name",
+        "Email": "Email",
+        "Subject": "Subject",
+        "Message": "Message",
+        "send": "Send Message"
+    },
+    "Privacy": {
+        "Headline": "Privacy Policy for The Homework AI",
+        "Intro": "At The Homework AI, accessible from \"wwww.thehomeworkai.com\", one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by The Homework AI and how we use it. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us. This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in The Homework AI. This policy is not applicable to any information collected offline or via channels other than this website. Our Privacy Policy was created with the help of the Free Privacy Policy Generator.",
+        "Consent": "Consent",
+        "ConsentText": "By using our website, you hereby consent to our Privacy Policy and agree to its terms.",
+        "Information": {
+            "title": "Information we collect",
+            "p1": "The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.",
+            "p2": "If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.",
+            "p3": "When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number."
+        },
+        "UseInformation": {
+            "title": "How we use your information",
+            "p1": "We use the information we collect in various ways, including to:",
+            "p2": "Provide, operate, and maintain our website",
+            "p3": "Improve, personalize, and expand our website",
+            "p4": "Understand and analyze how you use our website",
+            "p5": "Develop new products, services, features, and functionality",
+            "p6": "Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes",
+            "p7": "Send you emails",
+            "p8": "Find and prevent fraud"
+        },
+        "LogFiles": {
+            "title": "Log Files",
+            "p1": "The Homework AI follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information."
+        },
+        "Adver": {
+            "title": "Advertising Partners Privacy Policies",
+            "p1": "You may consult this list to find the Privacy Policy for each of the advertising partners of The Homework AI.",
+            "p2": "Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on The Homework AI, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.",
+            "p3": "Note that The Homework AI has no access to or control over these cookies that are used by third-party advertisers."
+        },
+        "Google": {
+            "title": "Google DoubleClick DART Cookie",
+            "p1": "Google is one of a third-party vendor on our site. It also uses cookies, known as DART cookies, to serve ads to our site visitors based upon their visit to www.website.com and other sites on the internet. However, visitors may choose to decline the use of DART cookies by visiting the Google ad and content network Privacy Policy at the following URL"
+        },
+        "ThirdParty": {
+            "title": "Third Party Privacy Policies",
+            "p1": "The Homework AI's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.",
+            "p2": "You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites."
+        },
+        "CCPA": {
+            "title": "CCPA Privacy Rights (Do Not Sell My Personal Information)",
+            "p1": "Under the CCPA, among other rights, California consumers have the right to:",
+            "p2": "Request that a business that collects a consumer's personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.",
+            "p3": "Request that a business delete any personal data about the consumer that a business has collected.",
+            "p4": "Request that a business that sells a consumer's personal data, not sell the consumer's personal data.",
+            "p5": "If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us."
+        },
+        "GDPR": {
+            "title": "GDPR Data Protection Rights",
+            "p1": "We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:",
+            "p2": "The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.",
+            "p3": "The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.",
+            "p4": "The right to erasure – You have the right to request that we erase your personal data, under certain conditions.",
+            "p5": "The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.",
+            "p6": "The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.",
+            "p7": "The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.",
+            "p8": "If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us."
+        },
+        "children": {
+            "title": "Children's Information",
+            "p1": "Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.",
+            "p2": "The Homework AI does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records."
+        }
+    },
+    "meta": {
+        "title": "The Homework AI - IA para fazer dever de casa | Grátis, Sem cadastro",
+        "description": "TheHomeworkAI: use a IA para fazer o dever de casa em todas as matérias, de forma gratuita, sem cadastro e sem limites — basta tirar uma foto e a nossa IA resolve!"
+    }
+}
