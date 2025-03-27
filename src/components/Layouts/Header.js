@@ -150,13 +150,6 @@ const Header = () => {
               onSelect={handleClick}
             />
           </div>
-
-          {/* <div className="hidden lg:flex mr-[92px]">
-            <DownloadButton
-              t={t}
-              className="text-md mt-2"
-            />
-          </div> */}
           <div
             className={classNames(
               "lg:flex text-lg font-semibold",
